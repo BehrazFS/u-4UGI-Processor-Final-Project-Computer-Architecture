@@ -1,0 +1,20 @@
+[Files List]
+C:\Aldec\Active-HDL-13-x64\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/numeric_std.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/numeric_std-body.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/arith_p.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/arith_b.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/unsigned_p.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/unsigned_b.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/textio.vhd=S
+E:\My_Designs\project_CA\design_1/src/PC_Unit.vhd=S
+E:\My_Designs\project_CA\design_1/src/Instruction_Memory_Unit.vhd=S
+E:\My_Designs\project_CA\design_1/src/Memory_Unit.vhd=S
+E:\My_Designs\project_CA\design_1/src/ALU.vhd=S
+E:\My_Designs\project_CA\design_1/src/Register_Bank.vhd=S
+E:\My_Designs\project_CA\design_1/src/Control_Unit.vhd=S
+E:\My_Designs\project_CA\design_1/src/CPU.vhd=S
+E:\My_Designs\project_CA\design_1/src/TestBench/cpu_TB.vhd=S

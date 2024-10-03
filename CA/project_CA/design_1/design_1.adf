@@ -1,0 +1,130 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=design_1
+[Library]
+design_1=.\design_1\design_1.lib
+[$LibMap$]
+design_1=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+fileopenfolder=E:\My_Designs\project_CA\design_1\src
+[IMPLEMENTATION]
+UCF=
+[Files]
+/ALU.vhd=-1
+/PC_Unit.vhd=-1
+/Memory_Unit.vhd=-1
+/Register_Bank.vhd=-1
+/Control_Unit.vhd=-1
+/Instruction_Memory_Unit.vhd=-1
+/CPU.vhd=-1
+/rams.data=-1
+TestBench/cpu_TB.vhd=-1
+TestBench/cpu_TB_runtest.do=-1
+TestBench/instruction_memory_unit_TB.vhd=-1
+TestBench/instruction_memory_unit_TB_runtest.do=-1
+TestBench/pc_unit_TB.vhd=-1
+TestBench/pc_unit_TB_runtest.do=-1
+TestBench/alu_TB.vhd=-1
+TestBench/alu_TB_runtest.do=-1
+TestBench/memory_unit_TB.vhd=-1
+TestBench/memory_unit_TB_runtest.do=-1
+[Files.Data]
+.\src\ALU.vhd=VHDL Source Code
+.\src\PC_Unit.vhd=VHDL Source Code
+.\src\Memory_Unit.vhd=VHDL Source Code
+.\src\Register_Bank.vhd=VHDL Source Code
+.\src\Control_Unit.vhd=VHDL Source Code
+.\src\Instruction_Memory_Unit.vhd=VHDL Source Code
+.\src\CPU.vhd=VHDL Source Code
+.\src\rams.data=External File
+.\src\TestBench\cpu_TB.vhd=VHDL Test Bench
+.\src\TestBench\cpu_TB_runtest.do=Macro
+.\src\TestBench\instruction_memory_unit_TB.vhd=VHDL Test Bench
+.\src\TestBench\instruction_memory_unit_TB_runtest.do=Macro
+.\src\TestBench\pc_unit_TB.vhd=VHDL Test Bench
+.\src\TestBench\pc_unit_TB_runtest.do=Macro
+.\src\TestBench\alu_TB.vhd=VHDL Test Bench
+.\src\TestBench\alu_TB_runtest.do=Macro
+.\src\TestBench\memory_unit_TB.vhd=VHDL Test Bench
+.\src\TestBench\memory_unit_TB_runtest.do=Macro
+[DesignStructure]
+BlockDiagram=.\src
+Macro=.\src
+WaveformASDB=.\src
+VerilogSourceCode=.\src
+TclScript=.\src
+WaveformASDBAWC=.\src
+WaveformASDBE=.\src
+EDIFSchematic=.\src
+ExternalFile=.\src
+SystemVerilogSourceCode=.\src
+PerlScript=.\src
+EDIFNetlist=.\src
+HTMLDocument=.\src
+SymbolSheet=.\src
+StateDiagram=.\src
+Cpp=.\src
+adc=.\src
+MemFile=.\src
+PslSourceCode=.\src
+Text=.\src
+WaveformASDBC=.\src
+SDF=.\src
+Drawing=.\src
+VHDLSourceCode=.\src
+GenerateToCustomFolder=0
+[folders]
+name0=ALINT-PRO Workspaces
+directory0=E:\My_Designs\project_CA\design_1\
+extension0=alintws
+name1=Coverage Databases
+directory1=E:\My_Designs\project_CA\design_1\
+extension1=acdb
+name2=Dll Libraries
+directory2=E:\My_Designs\project_CA\design_1\
+extension2=dll
+name3=Event Lists
+directory3=E:\My_Designs\project_CA\design_1\
+extension3=lst
+name4=HTML Files
+directory4=E:\My_Designs\project_CA\design_1\
+extension4=htm;html
+name5=Log Files
+directory5=E:\My_Designs\project_CA\design_1\
+extension5=log;htm;xml;txt
+name6=Matlab/Simulink Files
+directory6=E:\My_Designs\project_CA\design_1\
+extension6=m;mdl;slx
+name7=Memory Files
+directory7=E:\My_Designs\project_CA\design_1\
+extension7=mem;mif;hex
+name8=PDF Files
+directory8=E:\My_Designs\project_CA\design_1\
+extension8=pdf
+name9=Profiler Databases
+directory9=E:\My_Designs\project_CA\design_1\
+extension9=tbp
+name10=Script Files
+directory10=E:\My_Designs\project_CA\design_1\
+extension10=do;tcl;pl
+name11=Waveform Files
+directory11=E:\My_Designs\project_CA\design_1\
+extension11=asdb;awc;asdbc;asdbe
+[HierarchyViewer]
+HierarchyInformation=alu_tb|testbench_for_alu|1 cpu_tb|testbench_for_cpu|1 instruction_memory_unit_tb|testbench_for_instruction_memory_unit|1 memory_unit_tb|testbench_for_memory_unit|1 pc_unit_tb|testbench_for_pc_unit|1
+ShowHide=ShowTopLevel
+Selected=
+[Groups]
+TestBench=1

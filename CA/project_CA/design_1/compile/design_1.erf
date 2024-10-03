@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: E:/My_Designs/project_CA/design_1/src/PC_Unit.vhd" 
+MESSAGE "Compile Entity "PC_Unit"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "PC_Unit"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  94.0 [ms]" 

@@ -1,0 +1,44 @@
+Active-HDL 13.0.375.8320 2024-07-08 00:33:16
+
+Elaboration top modules:
+VHDL Configuration            testbench_for_cpu
+
+
+--------------------------------------------------------------------------------------------------------------
+Entity                  | Architecture    | Library  | Info | Compiler Version          | Compilation Options
+--------------------------------------------------------------------------------------------------------------
+cpu_tb                  | TB_ARCHITECTURE | design_1 |      | 13.0.375.8320 (Windows64) | -O3
+CPU                     | Behavioral      | design_1 |      | 13.0.375.8320 (Windows64) | -O3
+Control_Unit            | Behavioral      | design_1 |      | 13.0.375.8320 (Windows64) | -O3
+Register_Bank           | Behavioral      | design_1 |      | 13.0.375.8320 (Windows64) | -O3
+ALU                     | Behavioral      | design_1 |      | 13.0.375.8320 (Windows64) | -O3
+Memory_Unit             | Behavioral      | design_1 |      | 13.0.375.8320 (Windows64) | -O3
+Instruction_Memory_Unit | Behavioral      | design_1 |      | 13.0.375.8320 (Windows64) | -O3
+PC_Unit                 | Behavioral      | design_1 |      | 13.0.375.8320 (Windows64) | -O3
+--------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------
+VHDL Configuration                        | Library  | Info | Compiler Version          | Compilation Options
+--------------------------------------------------------------------------------------------------------------
+testbench_for_cpu                         | design_1 |      | 13.0.375.8320 (Windows64) | -O3
+--------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------
+VHDL Package                              | Library  | Info | Compiler Version          | Compilation Options
+--------------------------------------------------------------------------------------------------------------
+standard                                  | std      |      |                           | <unavailable>
+TEXTIO                                    | std      |      | 13.0.375.8320 (Windows64) |  -2019
+std_logic_1164                            | ieee     |      | 13.0.375.8320 (Windows64) |  -2008
+NUMERIC_STD                               | ieee     |      | 13.0.375.8320 (Windows64) |  -2008
+std_logic_arith                           | ieee     |      | 13.0.375.8320 (Windows64) | <unavailable>
+STD_LOGIC_UNSIGNED                        | ieee     |      | 13.0.375.8320 (Windows64) | <unavailable>
+STD_LOGIC_TEXTIO                          | ieee     |      | 13.0.375.8320 (Windows64) | <unavailable>
+--------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------
+Library                                   | Comment
+--------------------------------------------------------------------------------------------------------------
+design_1                                  | None
+ieee                                      | Standard IEEE packages library
+std                                       | Standard VHDL library
+--------------------------------------------------------------------------------------------------------------

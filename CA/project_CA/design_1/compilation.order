@@ -1,0 +1,12 @@
+.\src\ALU.vhd
+.\src\PC_Unit.vhd
+.\src\Memory_Unit.vhd
+.\src\Register_Bank.vhd
+.\src\Control_Unit.vhd
+.\src\Instruction_Memory_Unit.vhd
+.\src\CPU.vhd
+.\src\TestBench\cpu_TB.vhd
+.\src\TestBench\instruction_memory_unit_TB.vhd
+.\src\TestBench\pc_unit_TB.vhd
+.\src\TestBench\alu_TB.vhd
+.\src\TestBench\memory_unit_TB.vhd
