@@ -1,5 +1,5 @@
 # u-4UGI-Processor–Final-Project-Computer-Architecture 
-This repository contains the complete design and implementation of the u-4UGI 8-bit custom processor, developed as the final project for the Computer Architecture course.
+This repository contains the complete design and implementation of the u-4UGI 8-bit custom processor implemented in VHDL,  developed as the final project for the Computer Architecture course.
 
 # 🔧 Features
 8 General Purpose Registers: R0 to R7, each 8-bit wide
